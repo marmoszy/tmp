@@ -1,5 +1,5 @@
 # Temporary 
 
-Her comes the sun [^1].
+Here comes the Sun [^1].
 
 [^1]: Sun is coming here.
